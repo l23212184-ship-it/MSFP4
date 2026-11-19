@@ -1,3 +1,4 @@
+[https://github.com/l23212184-ship-it](https://github.com/l23212184-ship-it)
 # Práctica 4 — Modelado y control del sistema endócrino
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. En esta práctica se estudia un modelo de segundo orden del sistema endócrino, utilizando una analogía eléctrica, funciones de transferencia, simulaciones y control PID.
